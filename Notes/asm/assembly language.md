@@ -12,7 +12,7 @@ fs/read_write.c-        ssize_t ret = -EBADF;
 ```
 
 
-the system call numbers are different for 32-bit x86
+the system call numbers are different for 32-bit x86.
 
 #syscalls #x86
 
